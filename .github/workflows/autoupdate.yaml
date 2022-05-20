@@ -5,7 +5,7 @@ on:
   # Alternatively, you can only trigger if commits are pushed to certain branches, e.g.:
   push:
     branches:
-      - master
+      - main
       # - unstable
 jobs:
   autoupdate:
